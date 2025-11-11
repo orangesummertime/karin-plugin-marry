@@ -43,3 +43,4 @@
 
 ---
 ## 致谢
+本插件离不开https://github.com/SmallK111407/earth-k-plugin 的灵感！
